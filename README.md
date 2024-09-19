@@ -3,6 +3,9 @@
 
 This is a simple command-line todo list application written in Dart simply for learning purposes.
 
+The aim of this project is to work extensively with Dart's syntax, data structures, packages and how project structuring works.
+
+
 ## Features
 
 - List todo items
